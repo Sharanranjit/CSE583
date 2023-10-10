@@ -1,1 +1,2 @@
-This file is a test text file for github.
+This file is a test txt file for github.
+This is a second line to the test file.
